@@ -6,4 +6,5 @@ pages:
       - Git: 'tools/git.md'
   - Configuration:
       - CA Certificates: 'config/certificates/README.md'
-theme: material
+theme:
+  name: 'material'
