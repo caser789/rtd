@@ -1,0 +1,9 @@
+site_name: site name goes here
+pages:
+  - Home: 'index.md'
+  - Tools:
+      - SSH: 'tools/ssh.md'
+      - Git: 'tools/git.md'
+  - Configuration:
+      - CA Certificates: 'config/certificates/README.md'
+theme: readthedocs
