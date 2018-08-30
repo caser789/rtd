@@ -1,7 +1,9 @@
 site_name: site name goes here
 pages:
   - Home: 'index.md'
-  - k8s cookbook: 'k8s/index.md'
+  - k8s cookbook:
+    - cheatsheet: 'k8s/cheatsheet/index.md'
+    - compare: 'k8s/compare/index.md'
   - Tools:
     - SSH: 'tools/ssh.md'
     - Git: 'tools/git.md'

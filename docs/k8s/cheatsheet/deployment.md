@@ -19,8 +19,6 @@ kubectl edit deploy/nginx
 kubectl set image
 ```
 
-
-
 ## rollout
 
 kubectl rollout undo deployment sise --to-revision=2
